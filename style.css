@@ -1,0 +1,13 @@
+.no-bullets-no-padding {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+img {border-radius: 50%;}
+
+.table-format {
+  border: 2px solid blue;
+
+}
+.table-format tr:nth-child() {background-color: red}
